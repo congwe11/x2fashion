@@ -12,11 +12,8 @@ We have included the pre-trained checkpoint, dataset and results.
 
 ## Teaser
 
-![image](sample/image.png)
-
-![image](sample/grid_show_21.gif)
-
-
+<img src="sample/image.png" alt="" width="60%">
+<img src="sample/grid_show_21.gif" alt="" width="60%">
 
 ## Requirements
 - Python 3.9
@@ -32,7 +29,7 @@ We have included the pre-trained checkpoint, dataset and results.
 Clone this repository:
 
 ```
-git clone ...
+git clone [...](https://github.com/congwe11/x2fashion)
 cd ./x2fashion/
 ```
 
